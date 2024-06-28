@@ -10,7 +10,7 @@ adalah sebuah website yang berisi tentang kisah perjalanan seseorang dari yang t
 Preview Web
 </h2>
 <p align="center">
-  <img width="450%" alt="ABL" title="ABL" src="screenshots/1.png"/>
+  <img width="45%" alt="ABL" title="ABL" src="screenshots/1.png"/>
   <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <img width="45%" alt="ABL" title="ABL" src="screenshots/2.png"/>
 
